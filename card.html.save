@@ -2,13 +2,13 @@
   <body>
     <div itemscope itemtype="http://schema.org/Person">
       <span itemprop="name">Sebastian Kuśnierz</span>
-      <span itemprop="jobTitle">Student</span>
+<a href="http://facebook.com>Facebook</a>      <span itemprop="jobTitle">Student</span>
       <a href="http://v-ie.uek.krakow.pl/~s180830" itemprop="url">http://v-ie.uek.krakow.pl/~s180830</a>
     <p>Zainteresowania: komputery, ksiazki, filmy </p>
 
 	<ul>Media Spolecznosciowe
 <li><a href="http://facebook.com>Facebook</a></li>
-<li><a href="http://twitter.com>Twitter</a></li>
+<li></li>
 <li></li>
 </ul>
 
